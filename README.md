@@ -1,6 +1,7 @@
 # Python-Data-Structures-Algorithms-and-LEETCODE-Exercises
-Linked List 
+- Linked List 
 - Pop, remove, reverse, pop_first, remove duplicates, binary to decimal
 - Double Linked Lists
 - Trees
-- Hash Maps 
+- Hash Maps and tables
+- Dynamic Programming
